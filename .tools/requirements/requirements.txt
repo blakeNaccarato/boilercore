@@ -12,7 +12,7 @@ matplotlib==3.8.3
 nbconvert==7.16.0
 nbformat==5.9.2
 numpy==1.26.4
-pandas[hdf5,performance]==2.2.0
+pandas[hdf5,performance]==2.2.1
 pandas-stubs~=2.2.0
 ploomber-engine==0.0.32
 pydantic==2.6.1
