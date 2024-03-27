@@ -5,7 +5,7 @@ seaborn==0.13.2
 # ? For caching with dill, unlike the stock PyPI version
 cachier@git+https://github.com/blakeNaccarato/cachier@0892f53dc8fd9fb8a7f959305a1a9ec692876dc0
 # Type checking
-pyright==1.1.348
+pyright==1.1.356
 # * ---------------------------------------------------------------------------------- *
 # Pre-commit common requirements
 fawltydeps==0.15.0
